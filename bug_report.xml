@@ -1,1 +1,9 @@
-
+<BugReport>
+<Summary>Короткое описание</Summary>
+<Project>Проект</Project>
+<Component>Компонент приложения</Component>
+<Version>Номер версии</Version>
+<Severity>Серьёзность</Severity>
+<Priority>Приоритет</Priority>
+<Status>Статус</Status>
+</BugReport>
